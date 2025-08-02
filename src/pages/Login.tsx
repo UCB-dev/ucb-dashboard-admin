@@ -41,7 +41,7 @@ const Login = () => {
       <Card className="w-full max-w-md shadow-xl">
         <CardHeader className="text-center pb-2">
           <div className="w-20 h-20 bg-gradient-to-br from-primary to-blue-700  rounded-lg mx-auto mb-4 flex items-center justify-center p-1">
-            <img src= "src\assets\logo.png" alt='logo'/>
+            <img src= "/logo.png" alt='logo'/>
           </div>
           <CardTitle className="text-2xl font-bold text-foreground">Medicat Dashboard</CardTitle>
           <CardDescription className="text-muted-foreground">

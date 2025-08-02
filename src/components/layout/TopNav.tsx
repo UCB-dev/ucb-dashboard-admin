@@ -27,7 +27,7 @@ const TopNav = () => {
       <div className="flex items-center justify-between">
         <div className="flex items-center space-x-4">
           <div className="w-10 h-10 bg-gradient-to-br from-primary to-blue-700 rounded-lg flex items-center justify-center p-1">
-            <img src= "src\assets\logo.png" alt='logo'/>
+            <img src= "/logo.png" alt='logo'/>
           </div>
           <h1 className="text-xl font-semibold text-foreground">Medicat Dashboard</h1>
         </div>
